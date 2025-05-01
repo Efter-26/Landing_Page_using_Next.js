@@ -31,6 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Netlify
 
-This langding page deployed your the [Netlify Platform](https://ornate-kringle-858b0e.netlify.app/)
+This langding page deployed in the [Netlify Platform](https://ornate-kringle-858b0e.netlify.app/)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
